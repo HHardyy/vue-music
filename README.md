@@ -23,4 +23,5 @@ npm run build --report
 #### axios jsonp
 #### better-scroll
 #### Webpack
-[run](./runtime.gif)
+
+![run time](./runtime.gif)
